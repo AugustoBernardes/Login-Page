@@ -31,7 +31,7 @@ function newUser(){
             document.getElementById('emailInput').value = ''
             document.getElementById('passwordInput').value = ''
 
-            window.location.replace('./login.html')
+            window.location.replace('./pages/login.html')
         }
     }
 }
@@ -57,7 +57,7 @@ function loginUser(){
             document.getElementById('loginEmail').value = ''
             document.getElementById('loginPassword').value = ''
 
-            window.location.replace('./home.html')
+            window.location.replace('./pages/home.html')
 
         }else{
 
