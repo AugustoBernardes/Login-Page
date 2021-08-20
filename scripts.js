@@ -57,7 +57,7 @@ function loginUser(){
             document.getElementById('loginEmail').value = ''
             document.getElementById('loginPassword').value = ''
 
-            window.location.replace('./pages/home.html')
+            window.location.replace('./home.html')
 
         }else{
 
