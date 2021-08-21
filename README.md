@@ -5,6 +5,8 @@ The tutorial video is on my youtube channel [here](https://www.youtube.com/watch
 
 To check the real result just click [here](https://tutorial-login.netlify.app)
 
+<a href="https://www.youtube.com/channel/UCGZMgoM8XlEO-DLX_jARlYA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+
 # Data
 
 This app save the user Email and password , get all the values and save on local storage, after the login page validate if the data is equal.
