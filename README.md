@@ -1,7 +1,7 @@
 
 # About
 I made this site like a tutorial to teach the beginners in front-end , to make their fist project , this app is a login form saving the data on local storage.💻
-The tutorial video is on my youtube channel [here](https://www.youtube.com/channel/UCGZMgoM8XlEO-DLX_jARlYA)
+The tutorial video is on my youtube channel [here](https://www.youtube.com/watch?v=_6vsEZIoKD4&t=4591s)
 
 To check the real result just click [here](https://tutorial-login.netlify.app)
 
